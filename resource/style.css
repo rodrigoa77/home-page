@@ -1,0 +1,17 @@
+body{
+    /*plano de fundo colorido*/
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+.nav-bar{
+    background-color: #2c2b2b;
+    border-bottom: 2px solid #eb9a22;
+}
+
+.nav-bar ul li{
+    display: inline;
+    color: white;
+    padding: 50px;
+    font-size: larger;
+}
